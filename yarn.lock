@@ -6955,6 +6955,11 @@ react-is@^17.0.1:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-17.0.2.tgz#e691d4a8e9c789365655539ab372762b0efb54f0"
   integrity sha512-w2GsyukL62IJnlaff/nRegPQR94C/XXamvMWmSHRJ4y7Ts/4ocGRmTHvOs8PSE6pB3dWOrD/nueuU5sduBsQ4w==
 
+react-messenger-chat-plugin@^2.0.2:
+  version "2.0.2"
+  resolved "https://registry.yarnpkg.com/react-messenger-chat-plugin/-/react-messenger-chat-plugin-2.0.2.tgz#d53e5459c142c3c506fced39ec9fbdad4e60219c"
+  integrity sha512-esLOsb9Uq4AzPX1SREfOB0+jMlIu9OdHWNmDFMToPheaNFJXR81/Y8RIaTmIMpZGTHhT1h7LamVurDVwDw9Aqw==
+
 react-refresh@^0.11.0:
   version "0.11.0"
   resolved "https://registry.yarnpkg.com/react-refresh/-/react-refresh-0.11.0.tgz#77198b944733f0f1f1a90e791de4541f9f074046"
