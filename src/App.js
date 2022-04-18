@@ -1,19 +1,19 @@
 import './App.css';
 // import MessengerCustomerChat from 'react-messenger-customer-chat';
-import { MessengerChat } from 'react-messenger-chat-plugin';
+// import { MessengerChat } from 'react-messenger-chat-plugin';
 import React from 'react'
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>This is a Chat Page</h1>
+        <h1>This is a Chat Page 2.0</h1>
         {/* <MessengerCustomerChat
           pageId="915970668548064"
           appId="1103912743784569"
         /> */}
 
-        <MessengerChat
+        {/* <MessengerChat
           pageId='915970668548064'
           language='en_US'
           themeColor={'#F2F3G2'}
@@ -26,7 +26,7 @@ function App() {
           onMessengerHide={() => {console.log('onMessengerHide')}}
           onMessengerDialogShow={() => {console.log('onMessengerDialogShow')}}
           onMessengerDialogHide={() => {console.log('onMessengerDialogHide')}}
-          />
+          /> */}
       </header>
     </div>
   );
