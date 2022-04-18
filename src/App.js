@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <h1>This is a Chat Page 2.0</h1>
+        <h1>This is a Chat Page 2.1</h1>
         {/* <MessengerCustomerChat
           pageId="915970668548064"
           appId="1103912743784569"
