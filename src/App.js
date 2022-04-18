@@ -1,5 +1,5 @@
 import './App.css';
-// import MessengerCustomerChat from 'react-messenger-customer-chat';
+import MessengerCustomerChat from 'react-messenger-customer-chat';
 // import { MessengerChat } from 'react-messenger-chat-plugin';
 import React from 'react'
 
@@ -8,10 +8,10 @@ function App() {
     <div className="App">
       <header className="App-header">
         <h1>This is a Chat Page 2.1</h1>
-        {/* <MessengerCustomerChat
+        <MessengerCustomerChat
           pageId="915970668548064"
           appId="1103912743784569"
-        /> */}
+        />
 
         {/* <MessengerChat
           pageId='915970668548064'
