@@ -1,5 +1,4 @@
 import './App.css';
-import { MessengerChat } from 'react-messenger-chat-plugin';
 
 function App() {
   return (
